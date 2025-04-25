@@ -13,7 +13,6 @@ Favoris : Ajoutez vos films et séries préférés à vos favoris, organisés pa
 
 Recherche : Un moteur de recherche intégré vous permet de trouver rapidement le contenu de votre choix.
 
-Avis et Notation : Laissez des avis et attribuez des étoiles pour chaque film ou série.
 Fonctionnalités :
 
 Design Responsive : S'adapte à toutes les tailles d'écran (ordinateurs, tablettes, smartphones).
@@ -21,8 +20,6 @@ Design Responsive : S'adapte à toutes les tailles d'écran (ordinateurs, tablet
 Recherche avancée : Recherchez des films ou des séries par genre ou titre.
 
 Gestion des favoris : Classez vos films et séries préférés dans des sections distinctes.
-
-Notation et Avis : Évaluez le contenu avec des étoiles et laissez un avis.
 
 Affichage dynamique : Les films et séries sont automatiquement mis à jour à chaque ajout aux favoris.
 
