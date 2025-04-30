@@ -13,7 +13,7 @@ Favoris : Ajoutez vos films et séries préférés à vos favoris, organisés pa
 
 Recherche : Un moteur de recherche intégré vous permet de trouver rapidement le contenu de votre choix.
 
-Fonctionnalités :
+## Fonctionnalités :
 
 Design Responsive : S'adapte à toutes les tailles d'écran (ordinateurs, tablettes, smartphones).
 
